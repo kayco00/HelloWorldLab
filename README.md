@@ -8,4 +8,4 @@ Users should click the button below the Name box.
 The Application changes the user's name based on whatever they put in the text box.
 
 # Screenshot of the Application
-![Screenshot_20260916_152233.png](../../Desktop/Screenshot_20260916_152233.png)
+![screen1.png](screen1.png)

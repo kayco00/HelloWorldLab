@@ -1,10 +1,11 @@
-###Hello World Lab
+# Hello World Lab
 
-#Running the Application
+### Running the Application
 This application prompts the user for their name. Users can enter any name they would like by clicking the box.
 
 Users should click the button below the Name box.
 
 The Application changes the user's name based on whatever they put in the text box.
 
-
+# Screenshot of the Application
+![Screenshot_20260916_152233.png](../../Desktop/Screenshot_20260916_152233.png)
